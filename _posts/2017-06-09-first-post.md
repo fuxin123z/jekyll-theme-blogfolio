@@ -6,8 +6,8 @@ date: 2017-06-09 12:00:00 -0500
 
 Hey, it's just my first post!
 
-From [http://slipsum.com/lite/](http://slipsum.com/lite/):
+From [http://slipsum.com/lite/][1]:
 
-"The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee."
+吉林省林业技师学院1970年建校，隶属于省林业和草原局。学院办学层次涵盖中级工、高级工、预备技师。设有四个教学系，二十多个专业。有正高级讲师7人，高级讲师22人。省级工艺美术大师1人，省级技能名师3人。我们努力培养能吃苦、能做工、能创业的“三能”学生。学生入学后实行半封闭式管理。有专职班主任和义务监护人共同负责学生的教育和管理。
 
-"Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing."
+[1]:	http://slipsum.com/lite/
